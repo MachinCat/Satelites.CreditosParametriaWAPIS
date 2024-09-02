@@ -1,0 +1,6 @@
+@CreditosParametriaWAPIS_HostAddress = http://localhost:5144
+
+GET {{CreditosParametriaWAPIS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
